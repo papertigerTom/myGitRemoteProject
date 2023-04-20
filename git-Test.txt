@@ -1,2 +1,4 @@
 
 my first time using git , hello git .
+
+	第一次更新 提交... ... ！
